@@ -15,7 +15,7 @@ _raw_276_offset_high = 1.000
 _raw_1288 = 11.850
 _raw_1288_offset = 3.650
 
-TXT_FILE_PATH = "~/sistachansen/GreenPonik_EC_Python_industrial_probes/example/"
+TXT_FILE_PATH = "~/GreenPonik_EC_Python_industrial_probes/example/"
 
 def upload_file_to_website(file_path):
     url = 'https://quorkel.com/iot/group15/ec_readings.txt'
